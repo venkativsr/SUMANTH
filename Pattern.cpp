@@ -8,6 +8,6 @@ void main()
   
   for (int i=0;i<maxnumb;i++)
   {
-    cout << "*" <<"/n"    
+    cout << "****" <<"/n"    
   }
 }
